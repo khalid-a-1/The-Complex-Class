@@ -12,8 +12,11 @@ multiplication, and division for complex numbers using the
 following formulas:
 
 a + bi + c + di = (a + c) + (b + d )i
+
 a + bi - (c + di) = (a - c) + (b - d )i
+
 (a + bi) *(c + di) = (ac - bd ) + (bc + ad )i
+
 (a + bi) /(c + di) = (ac + bd ) /(c2 + d 2 ) + (bc - ad )i /(c2 + d 2 )
 
 You can also obtain the absolute value for a complex number
